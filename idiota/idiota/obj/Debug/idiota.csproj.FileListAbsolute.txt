@@ -1,0 +1,10 @@
+C:\Users\X\Downloads\idiota\idiota\bin\Debug\idiota.exe.config
+C:\Users\X\Downloads\idiota\idiota\bin\Debug\idiota.exe
+C:\Users\X\Downloads\idiota\idiota\bin\Debug\idiota.pdb
+C:\Users\X\Downloads\idiota\idiota\obj\Debug\idiota.csproj.AssemblyReference.cache
+C:\Users\X\Downloads\idiota\idiota\obj\Debug\idiota.Form1.resources
+C:\Users\X\Downloads\idiota\idiota\obj\Debug\idiota.Properties.Resources.resources
+C:\Users\X\Downloads\idiota\idiota\obj\Debug\idiota.csproj.GenerateResource.cache
+C:\Users\X\Downloads\idiota\idiota\obj\Debug\idiota.csproj.CoreCompileInputs.cache
+C:\Users\X\Downloads\idiota\idiota\obj\Debug\idiota.exe
+C:\Users\X\Downloads\idiota\idiota\obj\Debug\idiota.pdb
